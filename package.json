@@ -13,8 +13,8 @@
   },
   "keywords": [
     "posthtml",
-    "html",
-    "minifier"
+    "posthtml-plugin",
+    "conditional"
   ],
   "author": "Devin Torres <devin@devintorr.es>",
   "license": "CC0-1.0",

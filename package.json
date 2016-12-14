@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/devinus/posthtml-when#readme",
   "dependencies": {
-    "debug": "^2.2.0"
+    "debug": "^2.4.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",

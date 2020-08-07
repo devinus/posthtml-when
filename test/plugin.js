@@ -14,7 +14,7 @@ describe('posthtml-when', function() {
   var html = '<html></html>';
 
   afterEach(function() {
-    plugin.reset();
+    plugin.resetHistory();
   });
 
   it('skips plugin when false', function(done) {
